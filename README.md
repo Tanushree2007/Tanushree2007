@@ -182,6 +182,3 @@ Building, experimenting, and transforming new ideas into projects.
 
 <code>System.out.println("Thanks for visiting my profile! 💜");</code>
 </div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tanushree2007/Tanushree2007/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
